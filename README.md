@@ -8,6 +8,13 @@ Welcome to ABWIKI
 ### Physics
 
 ### Coding
-#### C++ (_A usefull resource would be [isocpp](https://isocpp.org/)_)
+* #### Markdown
+Do I contradict myself?\
+Very well then I contradict myself,\
+(I am large, I contain multitudes.)
 
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+Do I contradict myself?  
+Very well then I contradict myself,  
+(I am large, I contain multitudes.)
+
+* #### C++ (_A usefull resource would be [isocpp](https://isocpp.org/)_)
